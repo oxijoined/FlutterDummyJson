@@ -4,4 +4,5 @@
 
 ### Реализована аутентификация и вывод продуктов
 
-<video src="demo.mp4" controls title="Title" style="width: 30%"></video>
+https://github.com/oxijoined/FlutterDummyJson/assets/83812355/6b30b055-743e-48a7-a7f2-e08c58a8db7d
+
